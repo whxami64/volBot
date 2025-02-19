@@ -16,6 +16,11 @@ Type: Bot
 
 ## Example
 
+
+https://github.com/user-attachments/assets/18d588b0-8e22-40cf-a5aa-62877342538b
+
+
+
 ## Tx links
 https://bscscan.com/tx/0x581cda788080b52fbd5db8c4d3500c22a6c136a07b73e2311d1fc29330d48fe5
 https://bscscan.com/tx/0x8c870cf1721c2c765b45d2b13731bf384ec2e8020552aafb0436c01ded98f2ab
