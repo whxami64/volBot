@@ -14,6 +14,13 @@ Type: Bot
 - Random trade with funded wallets
 - Gathering funds after work
 
+## Example
+
+## Tx links
+https://bscscan.com/tx/0x581cda788080b52fbd5db8c4d3500c22a6c136a07b73e2311d1fc29330d48fe5
+https://bscscan.com/tx/0x8c870cf1721c2c765b45d2b13731bf384ec2e8020552aafb0436c01ded98f2ab
+https://bscscan.com/tx/0xb46d289c48d04dc6cc74849ecd9ef4fff6bf86aa3b16fc231d019b82c7789bc2
+
 ## Future
 - Randomizing trading amount
 - Randomizing trading frequency (Buy/Sell)
