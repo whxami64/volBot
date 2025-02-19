@@ -17,7 +17,7 @@ Type: Bot
 ## Example
 
 
-https://github.com/user-attachments/assets/18d588b0-8e22-40cf-a5aa-62877342538b
+https://github.com/user-attachments/assets/ac6e55f6-7ece-4cad-8dc7-883423c32f4e
 
 
 
