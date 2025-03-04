@@ -8,14 +8,14 @@ BSC, Ethereum mainnet, (Any EVM chains)
 Languange: Typescript, Solidity
 Type: Bot
 
-## How to use it?
+## How to use the bot?
 
 - You should install node modules by
 ```
 npm i
 ```
 
-- Edit some content in the `.env` file. I already sent you the project with `.env` file.
+- Edit some content in the `.env` file. I've already sent you the project with `.env` file.
 
 You should input your wallet address and privatekey there.
 ```
