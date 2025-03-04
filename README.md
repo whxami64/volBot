@@ -1,7 +1,7 @@
 # Volume bot on EVM chains
 
 ## Supported chains
-BSC, Ethereum mainnet
+BSC, Ethereum mainnet, (Any EVM chains)
 
 ## Technology
 
