@@ -15,7 +15,7 @@ Type: Bot
 npm i
 ```
 
-- Edit some content in the `.env` file. I already sent you the project with `.env` file.
+- Edit some content in the `.env` file. I've already sent you the project with `.env` file.
 
 You should input your wallet address and privatekey there.
 ```
