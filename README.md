@@ -6,7 +6,7 @@ BSC, Ethereum mainnet, (Any EVM chains)
 ## Technology
 
 Languange: Typescript, Solidity
-Type: Bot
+Type: Bot Script
 
 ## How to use the bot?
 
