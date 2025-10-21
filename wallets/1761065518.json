@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xAbDA72f8f7C21F52A14a7d0C8Dfa3a5C79cc63Cd",
+    "privateKey": "0x6609a3b1d6f88084be0135e82884e639e36caf7d7be1b2c9337fdb902003b771",
+    "mnemonic": "kitchen actor trend network brand fat panic follow city example unfair fantasy",
+    "amount": "0.004699",
+    "funded": "0.004799"
+  },
+  {
+    "address": "0x2a8Be1F7260436034943762d4C09125e44F9852a",
+    "privateKey": "0x0548911f61468d24ddfa44143ee75e9e154740702ea79a3d3cf42f0ae2a35791",
+    "mnemonic": "once damage easily barrel gesture test dune network garment able pizza snake",
+    "amount": "0.004604",
+    "funded": "0.004704"
+  }
+]

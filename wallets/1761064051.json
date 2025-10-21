@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xdA42258bD2e826853b4D2aFd464c44f12b18bd79",
+    "privateKey": "0x04e63ae2db13c1d5a757c17ae2339ad7532899cf96fc9f5b833815e504910457",
+    "mnemonic": "evil snack notable shove horse situate jealous immune cook because claw dinosaur",
+    "amount": "12.797239",
+    "funded": 0
+  },
+  {
+    "address": "0xc95bA08D26356BA7A0fCc3d3ca7A81e2D0C62892",
+    "privateKey": "0xbef7d67136c59fc8235682025abe340505e49474cad911f591365967ecc28f16",
+    "mnemonic": "super dawn six today horse legal drive border coach angry day transfer",
+    "amount": "19.070506",
+    "funded": 0
+  }
+]

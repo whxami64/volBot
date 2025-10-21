@@ -122,7 +122,7 @@ export const sendEther = async (fromPrvateKey: string, to: string, amount: strin
   }
 };
 
-export const gather = async (wallet: any, provider: Provider) => {
+export const gather = async (wallet: any, provider: Provider, reserve: number = 0) => {
   console.log("Gathering funds from", wallet.address);
 
   // Get balance (BigInt)
@@ -143,13 +143,16 @@ export const gather = async (wallet: any, provider: Provider) => {
     : gasLimit * (feeData.gasPrice ?? 0n); // Legacy transaction fallback
 
   // Ensure there's enough ETH to cover gas fees
-  if (balance <= gasFee) {
-    console.log("Not enough balance to cover gas fees.");
+  const reserveWei = ethers.parseEther(reserve.toString());
+  const requiredBalance = gasFee + reserveWei;
+
+  if (balance <= requiredBalance) {
+    console.log(`Not enough balance to cover gas fees and reserve (${ethers.formatEther(requiredBalance)} ETH).`);
     return;
   }
 
   // Calculate final amount to send (balance - gasFee)
-  const amountToSend = balance - gasFee;
+  const amountToSend = balance - requiredBalance;
   const etherAmount = ethers.formatEther(amountToSend); // Convert BigInt to string
 
   console.log(`Sending ${etherAmount} ETH after deducting gas fees.`);

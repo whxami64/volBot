@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xbb8572E14a418f471716e382A7249E5773C8baa8",
+    "privateKey": "0x6f60f42d916cbe9e19779f1f659d8c9ebf5ca4f0bd3d5f803a224038013b1654",
+    "mnemonic": "ranch kit access enhance climb remain ignore middle laugh nuclear matter there",
+    "amount": "0.003700",
+    "funded": "0.003750"
+  },
+  {
+    "address": "0x1A18C356943693BEdaE2A3df0f798f82F5ea625d",
+    "privateKey": "0x1117b52b5abebba3441428dc4c3d7cbdf5be293ee06d804181b7fb934825b1c5",
+    "mnemonic": "present notable regular depend profit kiss phrase result bicycle parade shoot arrive",
+    "amount": "0.003229",
+    "funded": 0
+  }
+]

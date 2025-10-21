@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x7a05212EA8681eBC4C0063765ef4aCB57804d6B6",
+    "privateKey": "0x94021a5f9dfb222dcf57814bbd7da96fcce8a1aa8c61e25265aba7ae8ef6f768",
+    "mnemonic": "wheat brass churn mystery million episode cram eternal when birth unknown grab",
+    "amount": "0.038162",
+    "funded": "0.038262"
+  },
+  {
+    "address": "0x7F9B1d5e17b6F07E4cC8321f1f1056382Ee4dD08",
+    "privateKey": "0xa5ef29c13c6e6ba8bf7cfe7e95a48322855f517b194b62b810ed9e6673ad23ad",
+    "mnemonic": "insane clean shallow burger innocent song direct federal west nasty march garlic",
+    "amount": "0.039085",
+    "funded": "0.039185"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xCb0F3F0fe02bF5f6adCE62E678Ddaa93a09aDb60",
+    "privateKey": "0x3ebef5445b4f882bf8630b232f08b934cf6660e7cb752760ccbe4dcd4d41dd67",
+    "mnemonic": "width dumb surround ten pulp hen dinner bleak actress use glimpse name",
+    "amount": "0.003875",
+    "funded": "0.003925"
+  },
+  {
+    "address": "0x35531494A3634C8e20bD091FC8b9fe4Ac03AB0Eb",
+    "privateKey": "0x911b6e7b58f7d79748e1f3ee1865ff4b7b7bfcd24a8e4c7699786ec4732f95f6",
+    "mnemonic": "border manual advice fox urge cargo soccer anchor lunar electric among castle",
+    "amount": "0.004087",
+    "funded": 0
+  }
+]

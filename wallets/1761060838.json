@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xAB96561799d88A0222250EC162D06c2DE7bd8Fb4",
+    "privateKey": "0x356bdf7a340398beaf9ab04ee92cf1dbec910d381acc5230c87e0839e70d3147",
+    "mnemonic": "crack tooth device curve sweet boring enroll style aim arrange own runway",
+    "amount": "0.001923",
+    "funded": "0.002923"
+  },
+  {
+    "address": "0xA98f5c9CeEf6840792A2e0F045A6C0ED9D52FB81",
+    "privateKey": "0xa09efa3a4617304e30906896df37cfb5a9320be0abde4735575132fb434e8603",
+    "mnemonic": "clinic syrup soccer october average hungry flame behind weekend spatial payment wash",
+    "amount": "0.001957",
+    "funded": 0
+  }
+]

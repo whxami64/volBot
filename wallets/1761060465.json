@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x957Ce90b8e85899D2ede661cbfdae4037403F1E5",
+    "privateKey": "0x48deae63cfe509e0840ea25cdd005a24e5a485d9af30b2cc49d232a46cdbc0fa",
+    "mnemonic": "ready peanut sponsor wolf palace envelope easy visual puppy mammal text update",
+    "amount": "0.001531",
+    "funded": "0.002531"
+  },
+  {
+    "address": "0xe0097fB0dAd17016b32BA1a5a42AD301CcCa7d79",
+    "privateKey": "0x928c25387c59d6eed470320e07e19a626afe6917670c54ded7e8bc03def60a23",
+    "mnemonic": "fee flag sell train place decline margin blast change dry song celery",
+    "amount": "0.002768",
+    "funded": "0.003768"
+  }
+]

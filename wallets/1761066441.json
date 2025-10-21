@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x22483D0d557f325eCdfB6F61A034A581970Ed8dE",
+    "privateKey": "0xdd476b2f539cdc52ddf2908fa32b9371cb1d943b20c18f63bc893916f25ad316",
+    "mnemonic": "tent domain north flock armor idle farm rude security knee camera render",
+    "amount": "0.040770",
+    "funded": "0.040870"
+  },
+  {
+    "address": "0x30ced1b77b7B09C535eAc12909a587697F25a76C",
+    "privateKey": "0x8a54042365cab8a8ae64900dd1ba53be2c6fec7daa1de5db8a1dd2614600e172",
+    "mnemonic": "series omit multiply notable gap apple frog pioneer animal allow leopard afraid",
+    "amount": "0.042582",
+    "funded": 0
+  }
+]

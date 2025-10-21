@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x0daDB0F1a244E4ec91339f427f85648a2ee637D1",
+    "privateKey": "0x13a04cfd1aadc710dc177c3d45da12ab17abf46f18867dc44f93da526aa4d160",
+    "mnemonic": "firm license wing vague jealous mimic update dirt share dash mesh expire",
+    "amount": "0.001874",
+    "funded": "0.002874"
+  },
+  {
+    "address": "0xa753Fd29773f295007Ac4d726DC02eE4882a133B",
+    "privateKey": "0x78727150fba2287c806c81ece98a4f728edee0fa43731a28db494b8267e0142d",
+    "mnemonic": "invest tone acoustic quarter throw vacant symptom neck square inflict suit quote",
+    "amount": "0.002990",
+    "funded": 0
+  }
+]

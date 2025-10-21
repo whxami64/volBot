@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xBAedCFC13Cb93A0B324B18007C08DB0619c2cF18",
+    "privateKey": "0xa957622f91a2ca09dc9d72cea18d71ea5efcfb8d5874b0db75f098c3fd985c61",
+    "mnemonic": "such wasp emerge roof drill author margin choose misery impose witness plate",
+    "amount": "0.002365",
+    "funded": 0
+  },
+  {
+    "address": "0x9d2426d267A5c357f0026717049138e3598CE695",
+    "privateKey": "0x1b5b9d4ad64420c4aabc41269a454ea5deee388d3cd9228c2ea39830e57c97e3",
+    "mnemonic": "slogan unknown sister giant image spot mask tissue ankle brand voyage sponsor",
+    "amount": "0.001120",
+    "funded": 0
+  }
+]

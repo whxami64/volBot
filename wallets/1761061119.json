@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x7aEd1505CAaca90f44Fa566d66a8Cbc4B57137Fc",
+    "privateKey": "0x5da6c6ba784e56208156dded65e6d5dc2f9a0d47b8d26b2a05b052ccd56014cc",
+    "mnemonic": "angry indoor hedgehog initial resist melt stone gold kick snack column fatal",
+    "amount": "0.001316",
+    "funded": "0.002316"
+  },
+  {
+    "address": "0x5e3134Edc5bF09628C6ab31291f691dcAA7A309c",
+    "privateKey": "0xeda782bf95836d8240ddc60776b87270d8bf7b81d94c03cc355a600db42624fd",
+    "mnemonic": "galaxy abandon coin hour error birth gorilla slice upset dash pond knife",
+    "amount": "0.002488",
+    "funded": 0
+  }
+]
