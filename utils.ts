@@ -1,16 +1,15 @@
 import { amountMax, amountMin, fee, maxInterval, minInterval } from "./config";
-import { BASE_WALLET_ADDRESS, BSC_ENDPOINT, ETH_ENDPOINT, PANCAKE_ROUTER_V2, routers, RPCs, UNISWAP_ROUTER_V2, WBNB_ADDRESS, WETH_ADDRESS, WETH_ADDRESS_SEPOLIA } from "./constants";
+import { AERODROME_ROUTER, BASE_RPC_ENDPOINT, BASE_WALLET_ADDRESS } from "./constants";
 import { get_erc20_abi } from "./fetchAbi";
-import { ChainId } from "./types";
 import { Provider, Wallet, ethers } from 'ethers';
 import fs from 'fs';
 
-export function getRpc(chainId: ChainId) {
-  return RPCs[chainId];
+export function getRpc() {
+  return BASE_RPC_ENDPOINT;
 }
 
-export function getRouterAddress(chainId: ChainId, version?: number) {
-  return routers[chainId];
+export function getRouterAddress() {
+  return AERODROME_ROUTER;
 }
 
 export function getRandomDelay() {

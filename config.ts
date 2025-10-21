@@ -1,7 +1,3 @@
-import { ChainId } from "./types";
-
-export const testVersion = false;
-
 //Random time interval of buy and sell
 export const maxInterval = 30000 //millisecond
 export const minInterval = 5000//millisecond
@@ -15,6 +11,3 @@ export const fee = 0.001; //Must be greater than 0.001
 
 //Number of sub wallets.
 export const subWalletNum = 2;
-
-//ChainId : Sepolia, BSC, Ethereum
-export const CHAINID:ChainId = ChainId.BSC;
