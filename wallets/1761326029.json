@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x760BE5Eac44d8192aE5796B0943D0BfbA7c4529D",
+    "privateKey": "0xfcd33d885b9aeb299072f514de174ed96064c1be64eacfe0c01506b5d8e12225",
+    "mnemonic": "credit arrange office axis key dust twice winner clown develop menu potato",
+    "usdcAmount": "58.52",
+    "funded": "0.002020"
+  },
+  {
+    "address": "0x812D1Ceb0140d156dB4d08AA98769a03d0aA2574",
+    "privateKey": "0x89eb4e6a97a49e19c15a065e00fd76db608772ab7639dc47cb3b594bc2318296",
+    "mnemonic": "filter faith runway just powder catalog husband history misery ski easy iron",
+    "usdcAmount": "47.35",
+    "funded": "0.002020"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x6DBC800fF09d8374D48D819e7CFE043bc7313657",
+    "privateKey": "0x4164a49d6aa9a3186e7876e8fade21465091450dd24d89346c22b30894399b12",
+    "mnemonic": "lobster attend initial private simple zoo answer mask cart civil hill master",
+    "usdcAmount": "41.47",
+    "funded": "0"
+  },
+  {
+    "address": "0xfa05E614BdEfEd144cDd12522aCbaB0DAe0a1DC7",
+    "privateKey": "0xe58111cb0b68748a750f160d34ba29eff4e3d1f500e7bd546fea01de06199ece",
+    "mnemonic": "pond void sauce arch purchase grain issue supreme hundred picnic window helmet",
+    "usdcAmount": "49.42",
+    "funded": "0"
+  }
+]

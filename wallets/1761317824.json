@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x163F225Be31C3C5F3751ad750cd4C0726D32A7F6",
+    "privateKey": "0x3f59b47d9b343a852070cd1c840e3a9c9963ffd03020efce887e5ff08929b7ba",
+    "mnemonic": "bulk spoon praise craft poet uniform fantasy worth truth industry travel real",
+    "usdcAmount": "59.26",
+    "funded": "0"
+  },
+  {
+    "address": "0xcbFd1b472cD016881CCde7fAd3b0F35F27B39111",
+    "privateKey": "0x35902c9660622a0e742772354239f51cb315f502f3bdba160c8de5e2c2858945",
+    "mnemonic": "busy harsh peace exhibit extend burger remove job join easily junior shuffle",
+    "usdcAmount": "53.34",
+    "funded": "0"
+  }
+]

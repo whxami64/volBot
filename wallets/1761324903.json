@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x7381b83b4571Cf8be1edf668e9253b136cFE358f",
+    "privateKey": "0x38ee308a3fbb64f6466d05d1588e73aae4a6acb32450c68b4c4db6e89e238d1f",
+    "mnemonic": "faint horror beach endorse client pet claim cost fox video access final",
+    "usdcAmount": "50.04",
+    "funded": "0.002020"
+  },
+  {
+    "address": "0x8aEF216180Cb5C5142b152Db1bc378d80847623E",
+    "privateKey": "0x07101bc79a39429f5e1099423b932a2fcd9302cf115979d305ef0c47643bc5af",
+    "mnemonic": "frost much since december student laugh march excuse sing marble rough toast",
+    "usdcAmount": "57.82",
+    "funded": "0.002020"
+  }
+]

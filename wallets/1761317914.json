@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x058aeF2B53826b19B675374b84f103a17320dC39",
+    "privateKey": "0xc4b0f5df509c58f77aea4bdc0ab5c422aa9dd2e424256c68c6b74bec156d1700",
+    "mnemonic": "midnight join exchange era garment game one invite senior hen tenant drama",
+    "usdcAmount": "52.74",
+    "funded": "0.002020"
+  },
+  {
+    "address": "0x0E6Ba9886B411f36D0a88e683Bcbc7a8d067e9ad",
+    "privateKey": "0x0cf3d43f5fb55a8f16efc5d9a6532b7d192acef840747ecd4d097d73ecf7ec44",
+    "mnemonic": "hover weird fence eagle odor drama nephew route romance bargain basic found",
+    "usdcAmount": "59.32",
+    "funded": "0.002020"
+  }
+]

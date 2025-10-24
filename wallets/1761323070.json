@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x21d0f7c71E971956c1Eb791678299bD3135a1d96",
+    "privateKey": "0xe8e5b8de77d642f891e289d1701fd3d8d74667cea90ac3a16e3a2a7b0a32657b",
+    "mnemonic": "message tissue auction fitness season hour shy galaxy hungry brother zone habit",
+    "usdcAmount": "57.23",
+    "funded": "0.002020"
+  },
+  {
+    "address": "0xA96ab123375281Ed28B885f5D0ed0B1EE96E1d50",
+    "privateKey": "0xdf47b2319907c7643ef7b9d5f1b9039dfa77734bd0c33a59d4d1be26367009b5",
+    "mnemonic": "escape penalty imitate struggle claw survey spike enhance near great insane loud",
+    "usdcAmount": "40.61",
+    "funded": "0.002020"
+  }
+]

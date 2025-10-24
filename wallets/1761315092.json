@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xd463DCD661C327b30e110e1B93E433353a60AC5E",
+    "privateKey": "0x81ca0ce5dff2c9e0dd2150eee06b5a9b1e883be80138c2c4d7db92144554665f",
+    "mnemonic": "kidney simple control ocean couple goddess wire try dove require divide warm",
+    "usdcAmount": "57.78",
+    "funded": "0.002020"
+  },
+  {
+    "address": "0xD5d6b9d60A9514A47fB1D6e4732629bBeD25f0f4",
+    "privateKey": "0xb761f69d1c1babc314d3ba24327649972af0f2f03ec6b770f2fa7d05d7e80589",
+    "mnemonic": "sister balcony forest uncle liberty pepper social dog hockey biology tell coral",
+    "usdcAmount": "48.44",
+    "funded": "0"
+  }
+]

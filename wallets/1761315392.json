@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x2623ae6Ef5Bf331c91dA0ADcdEF6FcDd45a7Bf47",
+    "privateKey": "0x2225c7e1e2bcb21b5480c2920a7185b566500a19978f2845dc12c6824be75b83",
+    "mnemonic": "polar what pen fine flag busy merit empty view ugly render health",
+    "usdcAmount": "53.50",
+    "funded": "0"
+  },
+  {
+    "address": "0xf99CBc6cb6Ee7316e53ee834Ce6061324628977d",
+    "privateKey": "0xd4f904e3369895fd701e2f33c38d1e0fc5670d847363b202fdcfb74829c35755",
+    "mnemonic": "correct universe goat side page dutch call find garage frown culture water",
+    "usdcAmount": "46.95",
+    "funded": "0"
+  }
+]

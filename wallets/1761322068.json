@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x18833A2D35983e17d843d24Aecdbd7393690ACd3",
+    "privateKey": "0xebce3f1899e9c761c0d5700f106279837f55f950c781de0c649eaa8c31134e53",
+    "mnemonic": "edge carbon unit dawn exist grape wisdom click side install sort direct",
+    "usdcAmount": "59.57",
+    "funded": "0.002020"
+  },
+  {
+    "address": "0xCB068B4E6fb7b584a0F356270D8806B0f4f5e533",
+    "privateKey": "0x7658af62cd46945d3ab72c06ae4f865722c6e49ba77599669cd11f73f2c30f34",
+    "mnemonic": "dish odor industry deliver noise shove ridge tree recall riot security final",
+    "usdcAmount": "44.93",
+    "funded": "0.002020"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x76a6cf8588e71ED4C3C1c070C6966Ed50F70FFc8",
+    "privateKey": "0x1ccff628ce0a0d7a0c430858626d24b6e846e9434c8d856ad33776c07c7f9962",
+    "mnemonic": "gadget expose muffin frame plastic staff steel desk salute burger scrap amount",
+    "usdcAmount": "48.55",
+    "funded": "0.002020"
+  },
+  {
+    "address": "0x7BD0217d7B7C9cD6e427e94ffca4a7b68ebCa013",
+    "privateKey": "0x67dc4848f3fd9ce6211d539d0fe9a678b5d29754dd84b47e7612b5fd10916e80",
+    "mnemonic": "program raccoon work love matter nice since chest transfer faculty fault come",
+    "usdcAmount": "47.61",
+    "funded": "0"
+  }
+]

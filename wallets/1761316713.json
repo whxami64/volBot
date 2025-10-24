@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x8e2Be7e960E9f885bEe780AbEeAc273B0C9222Cf",
+    "privateKey": "0x158f924def7df1c369e3f28eb96ffc0d158b4b9d788ef5b5566ca9e331124bf4",
+    "mnemonic": "only volume audit voyage patient junk cannon earn wolf swear write rookie",
+    "usdcAmount": "59.21",
+    "funded": "0.002020"
+  },
+  {
+    "address": "0xe4c980fFc3725D472305C72452b9befE9D676E41",
+    "privateKey": "0x07311f3d08e0cca9e833777fd90f5f1d9a6ee97126c61ac5a13c132d6642168e",
+    "mnemonic": "captain club eagle music rough afford system unfair rigid breeze van afford",
+    "usdcAmount": "52.27",
+    "funded": "0"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xfFf32E1B92ca667D51C87e49D49BBaac3Af5B9F3",
+    "privateKey": "0x8f347d0201d9946dd14c7b445d46e1546439a668cb2ad6c451c5a4026d761430",
+    "mnemonic": "wave bird agent start angry fork juice grief combine know spare abuse",
+    "usdcAmount": "56.41",
+    "funded": "0"
+  },
+  {
+    "address": "0x473B4Bba7524642D9fd79752bF6E8837b035fF7c",
+    "privateKey": "0x774132f88eb9b2a543c7502af16063e2909df3335ff407f46b9d9b429d0786e0",
+    "mnemonic": "gadget absurd type jazz parade confirm endorse floor yellow genius message pistol",
+    "usdcAmount": "51.23",
+    "funded": "0"
+  }
+]

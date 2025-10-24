@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x9B6BeF01D7837A25344ac5D567899530c8736E32",
+    "privateKey": "0x41f3e2d4f320c63c5c39f09bc67b11bd0d965691b3a44177c1d806df4bea0719",
+    "mnemonic": "strong spend inherit present body depth below enjoy february bright bundle drip",
+    "usdcAmount": "51.71",
+    "funded": "0.002020"
+  },
+  {
+    "address": "0xA50e97d61f3c877F38A2F556B727b35C00482cDE",
+    "privateKey": "0xc09fa96f0ded42a6671600ab7971fb49b714f8d35fa5b644a53b9a15c0688475",
+    "mnemonic": "mule all auction afford blush catch such wet slogan snap govern marine",
+    "usdcAmount": "59.50",
+    "funded": "0"
+  }
+]

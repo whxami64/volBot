@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xee1cEdbc53be669A60df0E44268c97c6e29F5a07",
+    "privateKey": "0x686f0a4424b7e985d7b66be147e4ad8eaad62d200230c2861ba7e650b68508a7",
+    "mnemonic": "draw reunion dance suffer physical fantasy table puzzle wreck cheese source impose",
+    "usdcAmount": "57.88",
+    "funded": "0"
+  },
+  {
+    "address": "0x2dB56B9F984C31901f436AC658B18e4A414d8327",
+    "privateKey": "0xfcc8353ca5f9144b664432d94dc081b14c2d576c0ec6fa80b37bfce6ee695782",
+    "mnemonic": "suspect denial forum wing three churn damp fitness legend alert theory disease",
+    "usdcAmount": "53.08",
+    "funded": "0"
+  }
+]

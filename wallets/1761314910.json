@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x67DFd37833070ECbE33bE8E71d727C89513CB661",
+    "privateKey": "0x0f43240d1befe90ecce66ff609b3c6c0f7750d26e08449cd1d8b14367d5d2648",
+    "mnemonic": "window core bullet cycle alpha can jelly crack enough autumn fringe tomato",
+    "usdcAmount": "54.35",
+    "funded": "0"
+  },
+  {
+    "address": "0x25e0005fC8888C268f2dDf1FAccAa62C3Cd2a8C7",
+    "privateKey": "0xd55bd10fade9d1e16d24e30105f937ae0e6a0e92551f94553d85c178e09c0b5b",
+    "mnemonic": "alarm neck kind bubble thought know list antenna maze panther hip twist",
+    "usdcAmount": "48.23",
+    "funded": "0"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xE87F1a1E7980dE0EA9e2e58D3BB0AA475a32EFC1",
+    "privateKey": "0x87b917785c2d2d74d1886938e4c3495c92f28ed7c829369718057e0f6d6fcf02",
+    "mnemonic": "system anchor summer affair boss noise vacuum fall carry bubble sense develop",
+    "usdcAmount": "43.57",
+    "funded": "0.002020"
+  },
+  {
+    "address": "0x96c49eD36F8eBfA623E63b206B7F0534F77F313d",
+    "privateKey": "0xee76ee4759488f39ac5800c1fd84e149067b9a75f67f9a9f6b741713850e94ad",
+    "mnemonic": "friend busy vapor reward apart juice hobby kick true category ask swap",
+    "usdcAmount": "59.44",
+    "funded": "0"
+  }
+]
